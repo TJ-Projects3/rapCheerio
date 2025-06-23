@@ -1,0 +1,15 @@
+{
+  "name": "6th-assignment---web-scraper",
+  "version": "1.0.0",
+  "description": "\"Web Scraper for Top 100 Rap Songs\"",
+  "main": "artists.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiwalayo Oluwalade",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.16"
+  }
+}
